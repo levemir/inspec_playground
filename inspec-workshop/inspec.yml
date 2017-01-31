@@ -1,8 +1,8 @@
 name: inspec-workshop
 title: InSpec Profile
-maintainer: The Authors
+maintainer: Alan Ryan
 copyright: The Authors
-copyright_email: you@example.com
-license: All Rights Reserved
-summary: An InSpec Compliance Profile
+copyright_email: DeweyCheatemAndHowe@law.com
+license: MIT
+summary: An InSpec Compliance Profile exercise against CentOS operating system
 version: 0.1.0
